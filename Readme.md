@@ -12,18 +12,16 @@ To get this project, you can clone it by running the following code:
 
 ##  Project Organization
 
-The directory structure of IndoMarket project looks like this:
-        .
-        ├── Readme.md                       -- The top-level README for developers using this project.
-        ├── Data                        
-            ├── Database_Filtered.csv       -- Database that already filtered to columns that wanted
-            ├── Export_Database.py          -- Codes to export database
-            └── Mineral Database.csv        -- Original database
-        └── scr
-            ├── Function.py                 -- Function codes
-            ├── Mineral Database.py         -- Main program
+The directory structure of Database Mineral project looks like this:
+├── Readme.md                           -- The top-level README for developers using this project.
+├── Data
+│   ├── Database_Filtered.csv           -- Database that already filtered to columns that wanted
+│   ├── Export_Database.py              -- Codes to export database
+│   └── Mineral Database.csv            -- Original database
+└── scr
+    ├── Function.py                     -- Function codes
+    ├── Mineral Database.py             -- Main program
  
-       
 ## Contribute
 
 If you want to give some contribution for Mineral Database App improvement, 
@@ -31,4 +29,4 @@ please contact me or you can check out https://github.com/zuhririzqi/Database-Mi
 
 
 
- 
+   
