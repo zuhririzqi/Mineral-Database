@@ -15,9 +15,9 @@ To get this project, you can clone it by running the following code:
 The directory structure of Database Mineral project looks like this:
 
 ├── Data
-│   ├── Database_Filtered.csv           -- Database that already filtered to columns that wanted
-│   ├── Export_Database.py              -- Codes to export database
-│   └── Mineral Database.csv            -- Original database
+    ├── Database_Filtered.csv           -- Database that already filtered to columns that wanted
+    ├── Export_Database.py              -- Codes to export database
+    └── Mineral Database.csv            -- Original database
 ├── Readme.md                           -- The top-level README for developers using this project.
 └── scr
     ├── Function.py                     -- Function codes
