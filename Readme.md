@@ -1,7 +1,7 @@
 ##  About
 
 Basically the goals of this application is to show properties of mineral with name of minerals as a key, using flow control, regular function, and some builtin function. 
-For the database I use mineral database from this (link:https://www.kaggle.com/datasets/vinven7/comprehensive-database-of-minerals), but I did several changes for the appearance as in crystal structure, diaphaneity, and optical properties which in original database shown as numbers, I change it so the columns values shown as descriptive.
+For the database I use mineral database from this [link](https://www.kaggle.com/datasets/vinven7/comprehensive-database-of-minerals), but I did several changes for the appearance as in crystal structure, diaphaneity, and optical properties which in original database shown as numbers, I change it so the columns values shown as descriptive.
 
 ## Instalastion
 
